@@ -155,3 +155,6 @@
 
 # 53099 New Zealand bridge to D-Star, DMR and NXDN
 53099	203.86.206.49		41000
+
+# In Process to link to Malaysia BM50210
+50210 edone.now.im   41000
